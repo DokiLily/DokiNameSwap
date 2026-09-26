@@ -1,0 +1,74 @@
+# 🎀 DokiNameSwap v4.2 — Installation Guide
+
+**For MAS 0.12.19 / Ren'Py 6.99.12.4.2187**
+
+## 📥 Installation
+
+### 1. Download and extract
+
+Download **DokiNameSwap-GitHub** and extract it.
+
+Open:
+
+```text
+DokiNameSwap-GitHub
+└── DokiNameSwap_v1.0.0_FIXED
+    └── DokiNameSwap
+```
+
+### 2. Install the main mod
+
+Copy the:
+
+```text
+DokiNameSwap_v1.0.0_FIXED
+```
+
+folder into:
+
+```text
+DDLC-1.1.1-pc\game\submods
+```
+
+The `.rpy`, `.rpyc`, and `images` folder should end up here:
+
+```text
+game\submods\DokiNameSwap_v1.0.0_FIXED\DokiNameSwap
+```
+
+### 3. Install the PNG/OGG assets
+
+Inside the downloaded `DokiNameSwap` folder, you'll find these files:
+
+```text
+crash.ogg
+knocking on wood.ogg
+yuri_horror.ogg
+natsuki_crack.ogg
+door.png
+ee_sayori.png
+yuricreepy.png
+natsukicreepy.png
+```
+
+**Copy those files into your MAS `game\mod_assets` folder.**
+
+Do **not** delete the existing `mod_assets` folder. Just add these files to it.
+
+### 4. Launch MAS
+
+Start MAS normally.
+
+Use **Change My Name** to activate Sayori, Yuri, or Natsuki.
+
+## ⚠️ Troubleshooting
+
+If you get an error while using the mod or when loading the game, **copy the error code and ask ChatGPT how to fix it** if you want to.
+
+You can also simply remove the **DokiNameSwap_v1.0.0_FIXED** folder from your `submods` folder. The mod or its files may have been placed incorrectly.
+
+Sending the **full error screen** is best when asking for help.
+
+## 💗 Done!
+
+Enjoy DokiNameSwap!

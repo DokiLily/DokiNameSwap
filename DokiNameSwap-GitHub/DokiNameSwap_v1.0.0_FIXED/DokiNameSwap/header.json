@@ -1,0 +1,7 @@
+{
+  "name": "Doki Name Swap",
+  "author": "ChatGPT",
+  "version": "1.0.0",
+  "description": "Name-based Doki desk overlay and dialogue submod for MAS 0.12.19.",
+  "priority": 100
+}
